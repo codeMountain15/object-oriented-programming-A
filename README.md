@@ -1,2 +1,14 @@
-# object-oriented-programming-A
-An introduction to Object Oriented Programming with Java
+# Εισαγωγή στον Αντικειμενοστραφή Προγραμματισμό
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
+
+
+## Πηγές
+* [cgi.di.uoa.gr/~izambo/K10Java.pdf](https://cgi.di.uoa.gr/~izambo/K10Java.pdf)
+
+
+---
+
+Ιδιαίτερες ευχαριστίες στην κ. [Ιζαμπώ Καράλη](https://cgi.di.uoa.gr/~izambo/GR.html) και την εκπαιδευτική ομάδα της για το πολύτιμο υλικό που μας παρείχαν
