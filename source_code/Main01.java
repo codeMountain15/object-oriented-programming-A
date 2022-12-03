@@ -5,7 +5,7 @@
 package javaintro;
 
 // the class name (Main01) should be the
-// same with the file name (Main01.jeva)
+// same with the file name (Main01.java)
 
 public class Main01 {
     public static void main(String[] args) {
