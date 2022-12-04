@@ -4,8 +4,10 @@
 public class Intro01 {
     public static void main(String[] args) {
         
-    int fInteger = 5;
-    int sInteger = 10;
+    //int fInteger = 10, sInteger = 10;
+    int fInteger, sInteger;
+    fInteger = sInteger = 10;
+    
     float aFloat = 9.99f;
     char aLetter = '!';
     boolean aBool = true;
