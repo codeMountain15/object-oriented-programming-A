@@ -1,9 +1,9 @@
-// file name: if01.java
+// file name: If01.java
 //
 
 import java.util.Scanner;
 
-class if01 {
+class If01 {
   public static void main(String[] args) {
     Scanner inputObj = new Scanner(System.in);
 
